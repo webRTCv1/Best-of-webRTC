@@ -3,8 +3,7 @@
 - 👋 Hi, I’m @webRTCv1
 - 👀 I’m interested in webRTC
 - 🌱 I’m currently learning webRTC
-- 💞️ I’m looking to collect all the best webRTC projects
-- 📫 How to reach me, if you read this, you reached me :)
+- 💞️ I’m looking to collect all the best of webRTC projects
 
 ![multi-party-video-conference](https://user-images.githubusercontent.com/104159437/164714607-48839e91-5551-4962-9187-3f2ad7d7259c.png)
 
@@ -38,6 +37,14 @@
 
 <br/>
 
+- Best of webRTC Turn & Stun servers
+
+  |  Name  |  Repo  | WebSite  |
+  |-----------------|--------------|-------------|
+  | Coturn | https://github.com/coturn/coturn |  |
+
+<br/>
+
 - Best of webRTC libs
 
   |  Name  |  Repo  | WebSite  |
@@ -52,13 +59,5 @@
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
   | Samples | https://github.com/webrtc/samples | https://webrtc.github.io/samples/ |
-
-<br/>
-
-- Best of webRTC Turn & Stun servers
-
-  |  Name  |  Repo  | WebSite  |
-  |-----------------|--------------|-------------|
-  | Coturn | https://github.com/coturn/coturn |  |
 
 <br/>
