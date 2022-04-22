@@ -7,7 +7,7 @@
 
 ![multi-party-video-conference](https://user-images.githubusercontent.com/104159437/164714607-48839e91-5551-4962-9187-3f2ad7d7259c.png)
 
-- ✨ Best of webRTC projects
+### ✨ Best of webRTC projects
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -25,7 +25,7 @@
 
 <br/>
 
-- ✨ Best of webRTC media servers
+### ✨ Best of webRTC media servers
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -34,11 +34,10 @@
   | Jitsi-videobrifge | https://github.com/jitsi/jitsi-videobridge | https://jitsi.org/jitsi-videobridge/ |
   | Kurento | https://github.com/Kurento/kurento-media-server | https://www.kurento.org |
   | MediaSoup | https://github.com/versatica/mediasoup/ | https://mediasoup.org/ |
-  | Pion | https://github.com/pion/webrtc | https://pion.ly |
 
 <br/>
 
-- ✨ Best of webRTC Turn & Stun servers
+### ✨ Best of webRTC Turn & Stun servers
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -46,16 +45,17 @@
 
 <br/>
 
-- ✨ Best of webRTC libs
+### ✨ Best of webRTC libs
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
   | PeerJS | https://github.com/peers/peerjs | https://peerjs.com |
+  | Pion | https://github.com/pion/webrtc | https://pion.ly |
   | Simple-peer | https://github.com/feross/simple-peer |  |
 
 <br/>
 
-- ✨ Best of webRTC examples
+### ✨ Best of webRTC examples
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
