@@ -20,7 +20,7 @@
   | Neko | https://github.com/m1k1o/neko | https://neko.m1k1o.net/ |
   | Nettu-meet | https://github.com/fmeringdal/nettu-meet | https://meet.nettubooking.com/ |
   | OpenVidu | https://github.com/OpenVidu/openvidu | https://openvidu.io |
-  | Talk | https://github.com/vasanthv/talk | https://github.com/vasanthv/talk |
+  | Talk | https://github.com/vasanthv/talk | https://usetalk.io/ |
   | Wirow-server | https://github.com/wirow-io/wirow-server | https://wirow.io |
 
 <br/>
