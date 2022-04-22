@@ -7,7 +7,7 @@
 
 ![multi-party-video-conference](https://user-images.githubusercontent.com/104159437/164714607-48839e91-5551-4962-9187-3f2ad7d7259c.png)
 
-- Best of webRTC projects
+- ✨ Best of webRTC projects
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -24,7 +24,7 @@
 
 <br/>
 
-- Best of webRTC media servers
+- ✨ Best of webRTC media servers
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -37,7 +37,7 @@
 
 <br/>
 
-- Best of webRTC Turn & Stun servers
+- ✨ Best of webRTC Turn & Stun servers
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -45,7 +45,7 @@
 
 <br/>
 
-- Best of webRTC libs
+- ✨ Best of webRTC libs
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -54,7 +54,7 @@
 
 <br/>
 
-- Best of webRTC examples
+- ✨ Best of webRTC examples
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
