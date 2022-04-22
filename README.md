@@ -45,7 +45,7 @@
 
 <br/>
 
-### ✨ Best of webRTC libs
+### ✨ Best of webRTC libraries
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
