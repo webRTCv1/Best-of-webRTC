@@ -14,6 +14,7 @@
   |-----------------|--------------|-------------|
   | BigBlueButton | https://github.com/bigbluebutton/bigbluebutton | https://bigbluebutton.org/ |
   | Briefing | https://github.com/holtwick/briefing/ | https://brie.fi/ng |
+  | Edumeet | https://github.com/edumeet/edumeet | https://letsmeet.no/ |
   | Jitsi | https://github.com/jitsi/jitsi-meet | https://meet.jit.si |
   | MiroTalk P2P | https://github.com/miroslavpejic85/mirotalk | https://mirotalk.up.railway.app |
   | MiroTalk SFU | https://github.com/miroslavpejic85/mirotalksfu | https://sfu.mirotalk.org/ |
