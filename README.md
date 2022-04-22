@@ -31,7 +31,7 @@
   |-----------------|--------------|-------------|
   | AntMedia | https://github.com/ant-media/Ant-Media-Server | https://antmedia.io |
   | Janus | https://github.com/meetecho/janus-gateway | https://janus.conf.meetecho.com/ |
-  | Jitsi-videobrifge | https://github.com/jitsi/jitsi-videobridge | https://jitsi.org/jitsi-videobridge/ |
+  | Jitsi-videobridge | https://github.com/jitsi/jitsi-videobridge | https://jitsi.org/jitsi-videobridge/ |
   | Kurento | https://github.com/Kurento/kurento-media-server | https://www.kurento.org |
   | MediaSoup | https://github.com/versatica/mediasoup/ | https://mediasoup.org/ |
 
