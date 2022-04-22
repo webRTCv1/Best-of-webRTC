@@ -1,3 +1,5 @@
+<br/>
+
 - 👋 Hi, I’m @webRTCv1
 - 👀 I’m interested in webRTC
 - 🌱 I’m currently learning webRTC
@@ -6,7 +8,7 @@
 
 ![multi-party-video-conference](https://user-images.githubusercontent.com/104159437/164714607-48839e91-5551-4962-9187-3f2ad7d7259c.png)
 
-- 📌 Best of webRTC projects
+- Best of webRTC projects
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -22,7 +24,7 @@
 
 <br/>
 
-- 📌 Best of webRTC media server
+- Best of webRTC media server
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -35,9 +37,11 @@
 
 <br/>
 
-- 📌 Best of webRTC lib
+- Best of webRTC lib
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
   | PeerJS | https://github.com/peers/peerjs | https://peerjs.com |
   | Simple-peer | https://github.com/feross/simple-peer |  |
+
+<br/>
