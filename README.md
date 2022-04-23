@@ -24,7 +24,7 @@
 
 <br/>
 
-### ✨ Best of webRTC projects
+### ✨ Best of webRTC general projects
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
