@@ -43,7 +43,7 @@
     </td>
   </tr>
 </table>
-<details  
+</details> 
 ```
 
 ### Details closed
@@ -68,5 +68,5 @@
     </td>
   </tr>
 </table>
-<details  
+</details> 
 ```
