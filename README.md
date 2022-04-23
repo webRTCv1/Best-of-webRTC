@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @webRTCv1
 - 👀 I’m interested in webRTC
 - 🌱 I’m currently learning webRTC
-- 💞️ I’m looking to collect all the best of webRTC projects
+- 💞️ I’m looking to collect all the best WebRTC projects in one place
 
 ![multi-party-video-conference](https://user-images.githubusercontent.com/104159437/164714607-48839e91-5551-4962-9187-3f2ad7d7259c.png)
 
@@ -21,6 +21,7 @@
   | Nettu-meet | https://github.com/fmeringdal/nettu-meet | https://meet.nettubooking.com/ |
   | OpenVidu | https://github.com/OpenVidu/openvidu | https://openvidu.io |
   | Talk | https://github.com/vasanthv/talk | https://usetalk.io/ |
+  | VdoNinja | https://github.com/steveseguin/vdo.ninja | https://vdo.ninja/ |
   | Wirow-server | https://github.com/wirow-io/wirow-server | https://wirow.io |
 
 <br/>
