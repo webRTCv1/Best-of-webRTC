@@ -280,7 +280,7 @@
     <th>Stars</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/webrtc/samples"></a>Samples</td>
+    <td><a href="https://github.com/webrtc/samples">Samples</a></td>
     <td><a href="https://webrtc.github.io/samples/">🌐</a></td>
     <td>
       <a href="https://github.com/webrtc/samples/stargazers">
