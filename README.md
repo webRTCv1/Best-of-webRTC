@@ -7,7 +7,7 @@
 
 ![multi-party-video-conference](https://user-images.githubusercontent.com/104159437/164714607-48839e91-5551-4962-9187-3f2ad7d7259c.png)
 
-### ✨ Best of webRTC projects
+### ✨ Best of webRTC video conferencing projects
 
   |  Name  |  Repo  | WebSite  |
   |-----------------|--------------|-------------|
@@ -17,12 +17,20 @@
   | Jitsi | https://github.com/jitsi/jitsi-meet | https://meet.jit.si |
   | MiroTalk P2P | https://github.com/miroslavpejic85/mirotalk | https://mirotalk.up.railway.app |
   | MiroTalk SFU | https://github.com/miroslavpejic85/mirotalksfu | https://sfu.mirotalk.org/ |
-  | Neko | https://github.com/m1k1o/neko | https://neko.m1k1o.net/ |
   | Nettu-meet | https://github.com/fmeringdal/nettu-meet | https://meet.nettubooking.com/ |
   | OpenVidu | https://github.com/OpenVidu/openvidu | https://openvidu.io |
   | Talk | https://github.com/vasanthv/talk | https://usetalk.io/ |
-  | VdoNinja | https://github.com/steveseguin/vdo.ninja | https://vdo.ninja/ |
   | Wirow-server | https://github.com/wirow-io/wirow-server | https://wirow.io |
+
+<br/>
+
+### ✨ Best of webRTC projects
+
+  |  Name  |  Repo  | WebSite  |
+  |-----------------|--------------|-------------|
+  | Neko | https://github.com/m1k1o/neko | https://neko.m1k1o.net/ |
+  | Project-Lightspeed | https://github.com/GRVYDEV/Project-Lightspeed |  |
+  | VdoNinja | https://github.com/steveseguin/vdo.ninja | https://vdo.ninja/ |
 
 <br/>
 
