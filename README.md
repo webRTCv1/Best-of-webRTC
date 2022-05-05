@@ -1,6 +1,6 @@
 # <p align="center">Best of WebRTC</p>
 
-<p align="center">Bring all the best webRTC projects together in one place.</p>
+<p align="center">Bring all the best WebRTC projects together in one place.</p>
 
 <hr />
 
