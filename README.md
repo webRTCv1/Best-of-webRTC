@@ -259,6 +259,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/muaz-khan/RTCMultiConnection">RTCMultiConnection</a></td>
+    <td><a href="https://muazkhan.com:9001/">🌐</a></td>
+    <td>
+      <a href="https://github.com/muaz-khan/RTCMultiConnection/stargazers">
+         <img src="https://img.shields.io/github/stars/muaz-khan/RTCMultiConnection?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/feross/simple-peer">Simple-peer</a></td>
     <td></td>
     <td>
