@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/miroslavpejic85/mirotalk">MiroTalk P2P</a></td>
-    <td><a href="https://mirotalk.up.railway.app">🌐</a></td>
+    <td><a href="https://p2p.mirotalk.com">🌐</a></td>
     <td>
       <a href="https://github.com/miroslavpejic85/mirotalk/stargazers">
          <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalk?style=plastic">
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/miroslavpejic85/mirotalksfu">MiroTalk SFU</a></td>
-    <td><a href="https://sfu.mirotalk.org/">🌐</a></td>
+    <td><a href="https://sfu.mirotalk.com">🌐</a></td>
     <td>
       <a href="https://github.com/miroslavpejic85/mirotalksfu/stargazers">
          <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalksfu?style=plastic">
