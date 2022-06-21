@@ -240,6 +240,15 @@
     <th>Web</th>
     <th>Stars</th>
   </tr>
+    <tr>
+    <td><a href="https://github.com/livekit/livekit">LiveKit</a></td>
+    <td><a href="https://docs.livekit.io/">🌐</a></td>
+    <td>
+      <a href="https://github.com/livekit/livekit/stargazers">
+         <img src="https://img.shields.io/github/stars/livekit/livekit?style=plastic">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td><a href="https://github.com/peers/peerjs">PeerJs</a></td>
     <td><a href="https://peerjs.com">🌐</a></td>
