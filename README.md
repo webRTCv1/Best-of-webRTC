@@ -250,6 +250,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/skyllo/peer-lite">peer-lite</a></td>
+    <td></td>
+    <td>
+      <a href="https://github.com/skyllo/peer-lite/stargazers">
+         <img src="https://img.shields.io/github/stars/skyllo/peer-lite?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/peers/peerjs">PeerJs</a></td>
     <td><a href="https://peerjs.com">🌐</a></td>
     <td>
@@ -282,6 +291,16 @@
     <td>
       <a href="https://github.com/feross/simple-peer/stargazers">
          <img src="https://img.shields.io/github/stars/feross/simple-peer?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/simplewebrtc/SimpleWebRTC">SimpleWebRTC</a></td>
+    <td></td>
+    <td>
+      <a href="[https://github.com/feross/simple-peer/stargazers](https://github.com/simplewebrtc/SimpleWebRTC/stargazers
+)">
+         <img src="https://img.shields.io/github/stars/simplewebrtc/SimpleWebRTC?style=plastic">
       </a>
     </td>
   </tr>
