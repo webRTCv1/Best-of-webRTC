@@ -15,7 +15,7 @@
     <td>
       <a href="<Repo/stargazers>">
          <img src="https://img.shields.io/github/stars/<User>/<Repo>?style=plastic">
-         <!-- https://shields.io/category/rating -->
+         <!-- https://shields.io/category/social -->
       </a>
     </td>
   </tr>
