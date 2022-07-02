@@ -325,5 +325,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/TannerGabriel/WebRTC-Video-Broadcast">WebRTC Video Broadcast</a></td>
+    <td><a href="https://gabrieltanner.org/blog/webrtc-video-broadcast/">🌐</a></td>
+    <td>
+      <a href="https://github.com/TannerGabriel/WebRTC-Video-Broadcast/stargazers">
+         <img src="https://img.shields.io/github/stars/TannerGabriel/webrtc-video-broadcast?style=plastic">
+      </a>
+    </td>
+  </tr>
 </table>
 </details>
