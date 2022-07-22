@@ -142,6 +142,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/RobinLinus/snapdrop">SnapDrop</a></td>
+    <td><a href="https://snapdrop.net/">🌐</a></td>
+    <td>
+      <a href="https://github.com/RobinLinus/snapdrop/stargazers">
+         <img src="https://img.shields.io/github/stars/RobinLinus/snapdrop?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/steveseguin/vdo.ninja">VdoNinja</a></td>
     <td><a href="https://vdo.ninja/">🌐</a></td>
     <td>
