@@ -142,6 +142,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/szimek/sharedrop">ShareDrop</a></td>
+    <td><a href="https://www.sharedrop.io">🌐</a></td>
+    <td>
+      <a href="https://github.com/szimek/sharedrop/stargazers">
+         <img src="https://img.shields.io/github/stars/szimek/sharedrop?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/RobinLinus/snapdrop">SnapDrop</a></td>
     <td><a href="https://snapdrop.net/">🌐</a></td>
     <td>
