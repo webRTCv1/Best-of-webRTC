@@ -94,6 +94,24 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/gjovanov/roomler">PlugNmeet</a></td>
+    <td><a href="https://roomler.live">🌐</a></td>
+    <td>
+      <a href="https://github.com/gjovanov/roomler/stargazers">
+         <img src="https://img.shields.io/github/stars/gjovanov/roomler?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mynaparrot/plugNmeet-server">Roomler</a></td>
+    <td><a href="https://www.plugnmeet.org">🌐</a></td>
+    <td>
+      <a href="https://github.com/mynaparrot/plugNmeet-server/stargazers">
+         <img src="https://img.shields.io/github/stars/mynaparrot/plugNmeet-server?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/vasanthv/talk">Talk</a></td>
     <td><a href="https://usetalk.io/">🌐</a></td>
     <td>
