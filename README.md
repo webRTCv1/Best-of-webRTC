@@ -85,7 +85,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/miroslavpejic85/mirotalksfu">MiroTalk WEB</a></td>
+    <td><a href="https://github.com/miroslavpejic85/mirotalkwebrtc">MiroTalk WEB</a></td>
     <td><a href="https://webrtc.mirotalk.com">🌐</a></td>
     <td>
       <a href="https://github.com/miroslavpejic85/mirotalkwebrtc/stargazers">
