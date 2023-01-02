@@ -85,6 +85,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/miroslavpejic85/mirotalksfu">MiroTalk WEB</a></td>
+    <td><a href="https://webrtc.mirotalk.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/miroslavpejic85/mirotalkwebrtc/stargazers">
+         <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalkwebrtc?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/fmeringdal/nettu-meet">Nettu-meet</a></td>
     <td><a href="https://meet.nettubooking.com/">🌐</a></td>
     <td>
