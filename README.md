@@ -58,6 +58,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/miroslavpejic85/mirotalkbro">MiroTalk BRO</a></td>
+    <td><a href="https://bro.mirotalk.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/miroslavpejic85/mirotalkbro/stargazers">
+         <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalkbro?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/miroslavpejic85/mirotalkc2c">MiroTalk C2C</a></td>
     <td><a href="https://c2c.mirotalk.com">🌐</a></td>
     <td>
