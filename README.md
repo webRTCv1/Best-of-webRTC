@@ -139,11 +139,11 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vasanthv/tlk">Tlk</a></td>
+    <td><a href="https://github.com/vasanthv/talk">Talk</a></td>
     <td><a href="https://tlk.li/">🌐</a></td>
     <td>
-      <a href="https://github.com/vasanthv/tlk/stargazers">
-         <img src="https://img.shields.io/github/stars/vasanthv/tlk?style=plastic">
+      <a href="https://github.com/vasanthv/talk/stargazers">
+         <img src="https://img.shields.io/github/stars/vasanthv/talk?style=plastic">
       </a>
     </td>
   </tr>
