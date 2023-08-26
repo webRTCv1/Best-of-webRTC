@@ -39,6 +39,15 @@
       </a>
     </td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/jeremyckahn/chitchatter">Chitchatter</a></td>
+    <td><a href="https://chitchatter.im">🌐</a></td>
+    <td>
+      <a href="https://github.com/jeremyckahn/chitchatter/stargazers">
+         <img src="https://img.shields.io/github/stars/jeremyckahn/chitchatter?style=plastic">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td><a href="https://github.com/edumeet/edumeet">Edumeet</a></td>
     <td><a href="https://letsmeet.no/">🌐</a></td>
