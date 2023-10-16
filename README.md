@@ -1,4 +1,6 @@
-# <p align="center">Best of WebRTC</p>
+<h1 align="center">Best of WebRTC</h1>
+
+<br />
 
 <p align="center">Bring all the best WebRTC projects together in one place.</p>
 
