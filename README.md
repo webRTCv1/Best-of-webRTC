@@ -69,6 +69,12 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Mafalda-SFU">Mafalda SFU</a></td>
+    <td><a href="https://mafalda.io">🌐</a></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/miroslavpejic85/mirotalkbro">MiroTalk BRO</a></td>
     <td><a href="https://bro.mirotalk.com">🌐</a></td>
     <td>
