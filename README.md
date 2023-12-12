@@ -15,7 +15,7 @@
 ## Contents
 
 <details open>
-<summary>WebRTC P2P & SFU</summary>
+<summary>WebRTC P2P - SFU - MCU</summary>
 <br/>
 <table>
   <tr>
@@ -272,15 +272,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/versatica/mediasoup/">MediaSoup</a></td>
-    <td><a href="https://mediasoup.org/">🌐</a></td>
-    <td>
-      <a href="https://github.com/versatica/mediasoup/stargazers">
-         <img src="https://img.shields.io/github/stars/versatica/mediasoup?style=plastic">
-      </a>
-    </td>
-  </tr>
 </table>  
 </details>
 
@@ -320,6 +311,15 @@
     <td>
       <a href="https://github.com/livekit/livekit/stargazers">
          <img src="https://img.shields.io/github/stars/livekit/livekit?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/versatica/mediasoup/">MediaSoup</a></td>
+    <td><a href="https://mediasoup.org/">🌐</a></td>
+    <td>
+      <a href="https://github.com/versatica/mediasoup/stargazers">
+         <img src="https://img.shields.io/github/stars/versatica/mediasoup?style=plastic">
       </a>
     </td>
   </tr>
