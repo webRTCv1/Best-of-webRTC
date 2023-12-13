@@ -15,7 +15,7 @@
 ## Contents
 
 <details open>
-<summary>WebRTC P2P & SFU</summary>
+<summary>WebRTC P2P - SFU - MCU</summary>
 <br/>
 <table>
   <tr>
@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/jitsi/jitsi-meet">Jitsi</a></td>
+    <td><a href="https://github.com/jitsi/jitsi-meet">Jitsi-meet</a></td>
     <td><a href="https://meet.jit.si">🌐</a></td>
     <td>
       <a href="https://github.com/jitsi/jitsi-meet/stargazers">
@@ -315,18 +315,18 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Mafalda-SFU">Mafalda SFU</a></td>
+    <td><a href="https://mafalda.io">🌐</a></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/versatica/mediasoup/">MediaSoup</a></td>
     <td><a href="https://mediasoup.org/">🌐</a></td>
     <td>
       <a href="https://github.com/versatica/mediasoup/stargazers">
          <img src="https://img.shields.io/github/stars/versatica/mediasoup?style=plastic">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mafalda-SFU">Mafalda SFU</a></td>
-    <td><a href="https://mafalda.io">🌐</a></td>
-    <td>
     </td>
   </tr>
   <tr>
