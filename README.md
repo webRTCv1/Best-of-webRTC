@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/jitsi/jitsi-meet">Jitsi</a></td>
+    <td><a href="https://github.com/jitsi/jitsi-meet">Jitsi-meet</a></td>
     <td><a href="https://meet.jit.si">🌐</a></td>
     <td>
       <a href="https://github.com/jitsi/jitsi-meet/stargazers">
