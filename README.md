@@ -315,6 +315,12 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Mafalda-SFU">Mafalda SFU</a></td>
+    <td><a href="https://mafalda.io">🌐</a></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/versatica/mediasoup/">MediaSoup</a></td>
     <td><a href="https://mediasoup.org/">🌐</a></td>
     <td>
@@ -372,8 +378,7 @@
     <td><a href="https://github.com/simplewebrtc/SimpleWebRTC">SimpleWebRTC</a></td>
     <td></td>
     <td>
-      <a href="[https://github.com/feross/simple-peer/stargazers](https://github.com/simplewebrtc/SimpleWebRTC/stargazers
-)">
+      <a href="[https://github.com/feross/simple-peer/stargazers](https://github.com/simplewebrtc/SimpleWebRTC/stargazers)">
          <img src="https://img.shields.io/github/stars/simplewebrtc/SimpleWebRTC?style=plastic">
       </a>
     </td>
