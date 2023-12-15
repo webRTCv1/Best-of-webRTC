@@ -180,6 +180,15 @@
     <th>Stars</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/mat-sz/filedrop">Filedrop</a></td>
+    <td><a href="https://drop.lol">🌐</a></td>
+    <td>
+      <a href="https://github.com/mat-sz/filedrop/stargazers">
+         <img src="https://img.shields.io/github/stars/mat-sz/filedrop?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/m1k1o/neko">Neko</a></td>
     <td><a href="https://neko.m1k1o.net/">🌐</a></td>
     <td>
