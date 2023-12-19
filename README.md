@@ -348,7 +348,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/skyllo/peer-lite">peer-lite</a></td>
+    <td><a href="https://github.com/skyllo/peer-lite">Peer-lite</a></td>
     <td></td>
     <td>
       <a href="https://github.com/skyllo/peer-lite/stargazers">
