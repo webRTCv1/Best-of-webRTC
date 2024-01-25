@@ -2,7 +2,7 @@
 
 <br />
 
-<p align="center">Bring all the best WebRTC projects together in one place.</p>
+<p align="center">Welcome to the Best of WebRTC repository! Explore a curated collection of top-tier WebRTC projects, frameworks, tools, including cutting-edge libraries, robust media servers, and powerful Progressive Web Apps (PWAs), all designed to revolutionize real-time communication. Boost your mastery of WebRTC and empower your projects with the most innovative solutions. Dive in, star your favorites, and join the community shaping the future of instant interaction! 🚀</p>
 
 <hr />
 
