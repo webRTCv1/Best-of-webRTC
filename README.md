@@ -414,7 +414,7 @@
 </details>
   
 <details>
-<summary>Exampels</summary>
+<summary>Examples</summary>
 <br/>
 <table>
   <tr>
