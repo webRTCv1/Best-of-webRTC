@@ -60,6 +60,16 @@
     </td>
   </tr>
   <tr>
+  <tr>
+    <td><a href="https://github.com/jech/galene">Galene</a></td>
+    <td><a href="https://galene.org/">🌐</a></td>
+    <td>
+      <a href="https://github.com/jech/galene/stargazers">
+         <img src="https://img.shields.io/github/stars/jech/galene?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/jitsi/jitsi-meet">Jitsi-meet</a></td>
     <td><a href="https://meet.jit.si">🌐</a></td>
     <td>
