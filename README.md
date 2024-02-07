@@ -433,6 +433,15 @@
     <th>Stars</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/mkhahani/mediasoup-sample-app">Mediasoup Sample App</a></td>
+    <td><a href="https://mediasoup.org/">🌐</a></td>
+    <td>
+      <a href="https://github.com/mkhahani/mediasoup-sample-app/stargazers">
+         <img src="https://img.shields.io/github/stars/mkhahani/mediasoup-sample-app?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/webrtc/samples">Samples</a></td>
     <td><a href="https://webrtc.github.io/samples/">🌐</a></td>
     <td>
