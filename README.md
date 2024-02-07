@@ -433,6 +433,15 @@
     <th>Stars</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/versatica/mediasoup-demo">Mediasoup Demo</a></td>
+    <td><a href="demo.mediasoup.org">🌐</a></td>
+    <td>
+      <a href="https://github.com/versatica/mediasoup-demo/stargazers">
+         <img src="https://img.shields.io/github/stars/versatica/mediasoup-demo?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/mkhahani/mediasoup-sample-app">Mediasoup Sample App</a></td>
     <td><a href="https://mediasoup.org/">🌐</a></td>
     <td>
