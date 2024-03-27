@@ -186,6 +186,15 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/MediaSFU/MediaSFUOpen">MediaSFU CE</a></td>
+    <td><a href="https://www.mediasfu.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/MediaSFU/MediaSFUOpen/stargazers">
+         <img src="https://img.shields.io/github/stars/MediaSFU/MediaSFUOpen?style=plastic">
+      </a>
+    </td>
+  </tr>
 </table>
 </details>
 
