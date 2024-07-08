@@ -420,6 +420,15 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/dmotz/trystero">Trystero</a></td>
+    <td><a href="https://oxism.com/trystero/">🌐</a></td>
+    <td>
+      <a href="https://github.com/dmotz/trystero/stargazers">
+         <img src="https://img.shields.io/github/stars/dmotz/trystero?style=plastic">
+      </a>
+    </td>
+  </tr>
 </table>
 </details>
   
