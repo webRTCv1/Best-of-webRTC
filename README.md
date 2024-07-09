@@ -170,7 +170,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/vasanthv/talk">Talk</a></td>
-    <td><a href="https://tlk.li/">🌐</a></td>
+    <td><a href="https://vasanthv.github.io/talk/">🌐</a></td>
     <td>
       <a href="https://github.com/vasanthv/talk/stargazers">
          <img src="https://img.shields.io/github/stars/vasanthv/talk?style=plastic">
