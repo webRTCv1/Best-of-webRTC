@@ -322,6 +322,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/processone/eturnal">Eturnal</a></td>
+    <td><a href="https://eturnal.net/">🌐</a></td>
+    <td>
+      <a href="https://github.com/processone/eturnal/stargazers">
+         <img src="https://img.shields.io/github/stars/processone/eturnal?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/pion/turn">Pion-Turn</a></td>
     <td></td>
     <td>
