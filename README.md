@@ -41,7 +41,16 @@
       </a>
     </td>
   </tr>
-    <tr>
+  <tr>
+    <td><a href="https://github.com/miroslavpejic85/call-me">Call-me</a></td>
+    <td><a href="https://cme.mirotalk.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/miroslavpejic85/call-me/stargazers">
+         <img src="https://img.shields.io/github/stars/miroslavpejic85/call-me?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/jeremyckahn/chitchatter">Chitchatter</a></td>
     <td><a href="https://chitchatter.im">🌐</a></td>
     <td>
