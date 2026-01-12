@@ -77,11 +77,11 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vasanthv/ahey">Ahey</a></td>
-    <td><a href="https://ahey.net">🌐</a></td>
+    <td><a href="https://github.com/vasanthv/hello">Ahey</a></td>
+    <td><a href="">🌐</a></td>
     <td>
-      <a href="https://github.com/vasanthv/ahey/stargazers">
-         <img src="https://img.shields.io/github/stars/vasanthv/ahey?style=plastic">
+      <a href="https://github.com/vasanthv/hello/stargazers">
+         <img src="https://img.shields.io/github/stars/vasanthv/hello?style=plastic">
       </a>
     </td>
   </tr>
