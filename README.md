@@ -77,8 +77,8 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vasanthv/hello">Ahey</a></td>
-    <td><a href="">🌐</a></td>
+    <td><a href="https://github.com/vasanthv/hello">Hello</a></td>
+    <td></td>
     <td>
       <a href="https://github.com/vasanthv/hello/stargazers">
          <img src="https://img.shields.io/github/stars/vasanthv/hello?style=plastic">
