@@ -12,12 +12,12 @@
 
 <div align="center">
 
-## Contents
+<h2 align="center">Contents</h2>
 
 <details open>
 <summary>WebRTC P2P - SFU - MCU</summary>
 <br/>
-<table>
+<table align="center">
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -201,7 +201,7 @@
 <details>
 <summary>General</summary>
 <br/>
-<table>
+<table align="center">
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -277,7 +277,7 @@
 <details>
 <summary>Media Servers</summary>
 <br/>
-<table>
+<table align="center">
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -325,7 +325,7 @@
 <details>
 <summary>Turn & Stun Servers</summary>
 <br/>
-<table>
+<table align="center">
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -364,7 +364,7 @@
 <details>
 <summary>Libraries</summary>
 <br/>
-<table>
+<table align="center">
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -463,7 +463,7 @@
 <details>
 <summary>Examples</summary>
 <br/>
-<table>
+<table align="center">
   <tr>
     <th>Repo</th>
     <th>Web</th>
