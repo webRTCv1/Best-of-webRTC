@@ -10,6 +10,8 @@
 
 <hr />
 
+<div align="center">
+
 ## Contents
 
 <details open>
@@ -505,3 +507,4 @@
   </tr>
 </table>
 </details>
+</div>
