@@ -17,7 +17,8 @@
 <details open>
 <summary>WebRTC P2P - SFU - MCU</summary>
 <br/>
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -196,12 +197,14 @@
     </td>
   </tr>
 </table>
+</div>
 </details>
 
 <details>
 <summary>General</summary>
 <br/>
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -272,12 +275,14 @@
     </td>
   </tr>
 </table>
+</div>
 </details>
 
 <details>
 <summary>Media Servers</summary>
 <br/>
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -319,13 +324,15 @@
       </a>
     </td>
   </tr>
-</table>  
+</table>
+</div>
 </details>
 
 <details>
 <summary>Turn & Stun Servers</summary>
 <br/>
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -359,12 +366,14 @@
     </td>
   </tr>
 </table>
+</div>
 </details>
 
 <details>
 <summary>Libraries</summary>
 <br/>
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -458,12 +467,14 @@
     </td>
   </tr>
 </table>
+</div>
 </details>
   
 <details>
 <summary>Examples</summary>
 <br/>
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <th>Repo</th>
     <th>Web</th>
@@ -506,5 +517,5 @@
     </td>
   </tr>
 </table>
-</details>
 </div>
+</details>
