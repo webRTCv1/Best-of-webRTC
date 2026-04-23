@@ -365,6 +365,15 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/l7mp/stunner">STUNner</a></td>
+    <td></td>
+    <td>
+      <a href="https://github.com/l7mp/stunner/stargazers">
+         <img src="https://img.shields.io/github/stars/l7mp/stunner?style=plastic">
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 </details>
@@ -436,6 +445,16 @@
     <td>
       <a href="https://github.com/muaz-khan/RTCMultiConnection/stargazers">
          <img src="https://img.shields.io/github/stars/muaz-khan/RTCMultiConnection?style=plastic">
+      </a>
+    </td>
+  </tr>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/rtcstats/rtcstats">rtcStats</a></td>
+    <td><a href="https://rtcstats.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/rtcstats/rtcstats/stargazers">
+         <img src="https://img.shields.io/github/stars/rtcstats/rtcstats?style=plastic">
       </a>
     </td>
   </tr>
