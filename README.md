@@ -12,7 +12,55 @@
 
 <div align="center">
 
-<h2 align="center">Contents</h2>
+<details open>
+<summary>Most Popular</summary>
+<br/>
+<div align="center">
+<table>
+  <tr>
+    <th>Repo</th>
+    <th>Web</th>
+    <th>Stars</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jitsi/jitsi-meet">Jitsi-meet</a></td>
+    <td><a href="https://meet.jit.si">🌐</a></td>
+    <td>
+      <a href="https://github.com/jitsi/jitsi-meet/stargazers">
+         <img src="https://img.shields.io/github/stars/jitsi/jitsi-meet?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miroslavpejic85/mirotalk">MiroTalk P2P</a></td>
+    <td><a href="https://p2p.mirotalk.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/miroslavpejic85/mirotalk/stargazers">
+         <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalk?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miroslavpejic85/mirotalksfu">MiroTalk SFU</a></td>
+    <td><a href="https://sfu.mirotalk.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/miroslavpejic85/mirotalksfu/stargazers">
+         <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalksfu?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bigbluebutton/bigbluebutton">BigBlueButton</a></td>
+    <td><a href="https://bigbluebutton.org/">🌐</a></td>
+    <td>
+      <a href="https://github.com/bigbluebutton/bigbluebutton/stargazers">
+         <img src="https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=plastic">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+</details>
 
 <details open>
 <summary>WebRTC P2P - SFU - MCU</summary>
@@ -23,15 +71,6 @@
     <th>Repo</th>
     <th>Web</th>
     <th>Stars</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/bigbluebutton/bigbluebutton">BigBlueButton</a></td>
-    <td><a href="https://bigbluebutton.org/">🌐</a></td>
-    <td>
-      <a href="https://github.com/bigbluebutton/bigbluebutton/stargazers">
-         <img src="https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=plastic">
-      </a>
-    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/holtwick/briefing/">Briefing</a></td>
@@ -70,7 +109,6 @@
     </td>
   </tr>
   <tr>
-  <tr>
     <td><a href="https://github.com/jech/galene">Galene</a></td>
     <td><a href="https://galene.org/">🌐</a></td>
     <td>
@@ -89,15 +127,6 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/jitsi/jitsi-meet">Jitsi-meet</a></td>
-    <td><a href="https://meet.jit.si">🌐</a></td>
-    <td>
-      <a href="https://github.com/jitsi/jitsi-meet/stargazers">
-         <img src="https://img.shields.io/github/stars/jitsi/jitsi-meet?style=plastic">
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/miroslavpejic85/mirotalkbro">MiroTalk BRO</a></td>
     <td><a href="https://bro.mirotalk.com">🌐</a></td>
     <td>
@@ -112,24 +141,6 @@
     <td>
       <a href="https://github.com/miroslavpejic85/mirotalkc2c/stargazers">
          <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalkc2c?style=plastic">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/miroslavpejic85/mirotalk">MiroTalk P2P</a></td>
-    <td><a href="https://p2p.mirotalk.com">🌐</a></td>
-    <td>
-      <a href="https://github.com/miroslavpejic85/mirotalk/stargazers">
-         <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalk?style=plastic">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/miroslavpejic85/mirotalksfu">MiroTalk SFU</a></td>
-    <td><a href="https://sfu.mirotalk.com">🌐</a></td>
-    <td>
-      <a href="https://github.com/miroslavpejic85/mirotalksfu/stargazers">
-         <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalksfu?style=plastic">
       </a>
     </td>
   </tr>
@@ -255,7 +266,6 @@
       </a>
     </td>
   </tr>
-  <tr>
   <tr>
     <td><a href="https://github.com/szimek/sharedrop">ShareDrop</a></td>
     <td><a href="https://www.sharedrop.io">🌐</a></td>
@@ -457,8 +467,7 @@
       </a>
     </td>
   </tr>
-  </tr>
-    <tr>
+  <tr>
     <td><a href="https://github.com/rtcstats/rtcstats">rtcStats</a></td>
     <td><a href="https://rtcstats.com">🌐</a></td>
     <td>
@@ -480,7 +489,7 @@
     <td><a href="https://github.com/simplewebrtc/SimpleWebRTC">SimpleWebRTC</a></td>
     <td></td>
     <td>
-      <a href="[https://github.com/feross/simple-peer/stargazers](https://github.com/simplewebrtc/SimpleWebRTC/stargazers)">
+      <a href="https://github.com/simplewebrtc/SimpleWebRTC/stargazers">
          <img src="https://img.shields.io/github/stars/simplewebrtc/SimpleWebRTC?style=plastic">
       </a>
     </td>
@@ -547,3 +556,4 @@
 </table>
 </div>
 </details>
+</div>
