@@ -142,6 +142,15 @@
       </a>
     </td>
   </tr>
+ <tr>
+    <td><a href="https://github.com/softhon/mitsi-web">Mitsi</a></td>
+    <td><a href="https://mitsi.app/">🌐</a></td>
+    <td>
+      <a href="https://github.com/softhon/mitsi-web/stargazers">
+         <img src="https://img.shields.io/github/stars/softhon/mitsi-web/?style=plastic">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td><a href="https://github.com/fmeringdal/nettu-meet">Nettu-meet</a></td>
     <td><a href="https://meet.nettubooking.com/">🌐</a></td>
