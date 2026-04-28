@@ -147,7 +147,7 @@
     <td><a href="https://mitsi.app/">🌐</a></td>
     <td>
       <a href="https://github.com/softhon/mitsi-web/stargazers">
-         <img src="https://img.shields.io/github/stars/softhon/mitsi-web/?style=plastic">
+         <img src="https://img.shields.io/github/stars/softhon/mitsi-web?style=plastic">
       </a>
     </td>
   </tr>
