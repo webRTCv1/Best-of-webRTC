@@ -207,15 +207,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/wirow-io/wirow-server">Wirow-server</a></td>
-    <td><a href="https://wirow.io">🌐</a></td>
-    <td>
-      <a href="https://github.com/wirow-io/wirow-server/stargazers">
-         <img src="https://img.shields.io/github/stars/wirow-io/wirow-server?style=plastic">
-      </a>
-    </td>
-  </tr>
 </table>
 </div>
 </details>
