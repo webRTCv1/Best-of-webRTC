@@ -339,7 +339,7 @@
     <td><a href="https://mediamtx.org">🌐</a></td>
     <td>
       <a href="https://github.com/bluenviron/mediamtx/stargazers">
-         <img src="https://img.shields.io/https://github.com/bluenviron/mediamtx?style=plastic">
+         <img src="https://img.shields.io/github/stars/bluenviron/mediamtx?style=plastic">
       </a>
     </td>
   </tr>
