@@ -334,6 +334,15 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/bluenviron/mediamtx">Mediamtx</a></td>
+    <td><a href="https://mediamtx.org">🌐</a></td>
+    <td>
+      <a href="https://github.com/bluenviron/mediamtx/stargazers">
+         <img src="https://img.shields.io/https://github.com/bluenviron/mediamtx?style=plastic">
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 </details>
