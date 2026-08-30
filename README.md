@@ -127,6 +127,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/suitenumerique/meet">Meet</a></td>
+    <td><a href="https://github.com/suitenumerique">🌐</a></td>
+    <td>
+      <a href="https://github.com/suitenumerique/meet/stargazers">
+         <img src="https://img.shields.io/github/stars/suitenumerique/meet?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/miroslavpejic85/mirotalkbro">MiroTalk BRO</a></td>
     <td><a href="https://bro.mirotalk.com">🌐</a></td>
     <td>
