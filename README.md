@@ -128,7 +128,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/suitenumerique/meet">Meet</a></td>
-    <td><a href="https://github.com/suitenumerique">🌐</a></td>
+    <td><a href="https://lasuite.numerique.gouv.fr/">🌐</a></td>
     <td>
       <a href="https://github.com/suitenumerique/meet/stargazers">
          <img src="https://img.shields.io/github/stars/suitenumerique/meet?style=plastic">
