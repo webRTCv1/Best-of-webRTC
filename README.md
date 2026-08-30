@@ -73,6 +73,15 @@
     <th>Stars</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/vasanthv/ahey">Ahey</a></td>
+    <td></td>
+    <td>
+      <a href="https://github.com/vasanthv/ahey/stargazers">
+         <img src="https://img.shields.io/github/stars/vasanthv/ahey?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/holtwick/briefing/">Briefing</a></td>
     <td><a href="https://brie.fi/ng">🌐</a></td>
     <td>
@@ -114,15 +123,6 @@
     <td>
       <a href="https://github.com/jech/galene/stargazers">
          <img src="https://img.shields.io/github/stars/jech/galene?style=plastic">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vasanthv/ahey">Ahey</a></td>
-    <td></td>
-    <td>
-      <a href="https://github.com/vasanthv/ahey/stargazers">
-         <img src="https://img.shields.io/github/stars/vasanthv/ahey?style=plastic">
       </a>
     </td>
   </tr>
